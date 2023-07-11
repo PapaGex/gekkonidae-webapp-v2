@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "name": "Leachie",
+    "genus": "Rhachodactylus",
+    "species": "leachianus",
+    "locale_subspecies": "to many to list",
+    "discovered": null,
+    "description": "one of the largest geckos on the planet",
+    "habitat": "pacific humid  forest",
+    "snout_to_vent": "13+ inches",
+    "lifespan": "35 plus years",
+    "species_range": "New Caledonia and surrounding islands"
+  },
+  {
+    "id": 2,
+    "name": "Chewie",
+    "genus": "Mniarogekko",
+    "species": "chahuoa",
+    "locale_subspecies": "mainland and Pine Island form",
+    "discovered": null,
+    "description": "Mossy new caledonian gecko",
+    "habitat": "Humid coastal forests",
+    "snout_to_vent": "11 inch max",
+    "lifespan": "30 years",
+    "species_range": "New Caledonia and Pine Island"
+  },
+  {
+    "id": 3,
+    "name": "Mossy Leaftail",
+    "genus": "Uroplatus",
+    "species": "sikorae",
+    "locale_subspecies": "different morphs from different forests",
+    "discovered": "Boettger,  1913",
+    "description": "mossy leaftail gecko",
+    "habitat": "Malagasy Montane rainforests",
+    "snout_to_vent": "max 6 inch",
+    "lifespan": "16 years",
+    "species_range": "Madagascar"
+  },
+  {
+    "id": 4,
+    "name": "Satanic Leaftail",
+    "genus": "Uroplatus",
+    "species": "phantasticus",
+    "locale_subspecies": "none",
+    "discovered": "Boulenger, 1888",
+    "description": "small dimorphic leaftail",
+    "habitat": "bushes and shrubs montane rainforests",
+    "snout_to_vent": "3inch",
+    "lifespan": "6-12 yers",
+    "species_range": "Montane rainforests of Madagascar"
+  },
+  {
+    "id": 5,
+    "name": "Gargoyle Gecko",
+    "genus": "Rhachodactylus",
+    "species": "auriculatus",
+    "locale_subspecies": "none described, bred for various traits",
+    "discovered": "Bavay in 1869",
+    "description": "small to medium size gecko. it gets both its common and species name from the cranial \"bumps\".",
+    "habitat": "they are arboreal geckos moving and jumping through the flora of new caledonia.",
+    "snout_to_vent": "7 to 9 inches",
+    "lifespan": "approx 13-25",
+    "species_range": "Southern New Caledonia."
+  },
+  {
+    "id": 6,
+    "name": "lesser rough-snout gecko",
+    "genus": "Rhachodactylus",
+    "species": "trachycephalus",
+    "locale_subspecies": "none described",
+    "discovered": "George Albert Boulenger in 1878",
+    "description": "R. trachycephalus is viviparous, giving birth to 1 to 4 offspring per year. scales create a mosaic pattern, with patches of white, brown, grey, and green in various hues.",
+    "habitat": "Humid forest",
+    "snout_to_vent": "3.5 - 5.5",
+    "lifespan": "approx 50-60",
+    "species_range": "The species' range is extremely restricted; it only occurs on a small area of Isle of Pines and a small island off its shore, in humid forest habitats."
+  },
+  {
+    "id": 7,
+    "name": "halmehara",
+    "genus": "Gehyra",
+    "species": "marginata",
+    "locale_subspecies": "none described",
+    "discovered": "Boulenger, 1887",
+    "description": "they are arboreal geckos moving and jumping through the flora of indonesia..",
+    "habitat": "Humid forest",
+    "snout_to_vent": "7-8",
+    "lifespan": "15-20",
+    "species_range": "Indonesian Islands"
+  }
+  ]

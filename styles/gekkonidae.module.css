@@ -40,12 +40,12 @@
     overflow: hidden;
 }
 
-.storeImgWrapper {
+.geckoImgWrapper {
     padding-top: 1rem /* 16px */;
     padding-bottom: 1rem /* 16px */;
 }
 
-.storeImg {
+.geckoImg {
     box-shadow: var(0 25px 50px -12px #bcaaa4, 0 0 #0000),
     0 25px 50px -12px rgba(0, 0, 0, 0.25), 0 0 #0000,
     0 25px 50px -12px rgba(0, 0, 0, 0.25);

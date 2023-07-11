@@ -11,7 +11,7 @@ export function getStaticProps(staticProps) {
     console.log("params", params);
     return {
         props: {
-            gecko: geckos.find((gecko) => {
+            geckos: geckos.find((gecko) => {
                 return gecko.id.toString() === params.id;
             }),
         },
@@ -21,17 +21,17 @@ export function getStaticProps(staticProps) {
 export function getStaticPaths() {
     const paths = geckos.map((gecko) => {
         return {
-         params: {
-             id: gecko.id.toString(),
-         },
-    };
-    });
-        return {
-            paths,
-            fallback: true,
+          params: {
+              id: gecko.id.toString(),
+          },
         };
+    });
+         return {
+             paths,
+             fallback: true,
+         };
     }
-const Gekkonidae = (props) => {
+const Geckos = (props) => {
     const router = useRouter()
     console.log('Next Router', router);
 
@@ -44,13 +44,12 @@ const Gekkonidae = (props) => {
     const { id, name, genus, species,
         discovered, description, habitat,
         species_range, lifespan, snout_to_vent,
-        locale_subspecies } = props.gecko;
+        locale_subspecies } = props.geckos;
 
     return (
         <>
             <div className={styles.layout}>
                 <Head>
-
                     <title>{species}</title>
                 </Head>
                 <h1 > {genus} {species} </h1>
@@ -75,4 +74,4 @@ const Gekkonidae = (props) => {
     );
 };
 
-export default Gekkonidae;
+export default Geckos;

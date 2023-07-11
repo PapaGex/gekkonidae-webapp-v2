@@ -27,7 +27,7 @@
   },
   {
     "id": 3,
-    "name": "Mossy Leaftail",
+    "name": "Mossy-Leaftail",
     "genus": "Uroplatus",
     "species": "sikorae",
     "locale_subspecies": "different morphs from different forests",
@@ -40,7 +40,7 @@
   },
   {
     "id": 4,
-    "name": "Satanic Leaftail",
+    "name": "Satanic-leaftail",
     "genus": "Uroplatus",
     "species": "phantasticus",
     "locale_subspecies": "none",
@@ -53,7 +53,7 @@
   },
   {
     "id": 5,
-    "name": "Gargoyle Gecko",
+    "name": "Gargoyle",
     "genus": "Rhachodactylus",
     "species": "auriculatus",
     "locale_subspecies": "none described, bred for various traits",
@@ -66,7 +66,7 @@
   },
   {
     "id": 6,
-    "name": "lesser rough-snout gecko",
+    "name": "lesser-rough-snout",
     "genus": "Rhachodactylus",
     "species": "trachycephalus",
     "locale_subspecies": "none described",
